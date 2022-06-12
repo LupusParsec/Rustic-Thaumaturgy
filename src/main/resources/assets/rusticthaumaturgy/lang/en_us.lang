@@ -162,7 +162,7 @@ research.RT_SCONCES.stage.1= I wonder if there is any way to create a magical li
 
 research.RT_SCONCES.stage.2=Turns out I can plop any essentia crystal at all onto a candlestick and imbue it with aer and ignis to create a fancy light source. Neat!
 
-research.f_RT_SCONCES.text=Examine Rustic Candles
+research.f_RT_CANDLES.text=Examine Rustic Candles
 
 
 research.RT_BRASS_FIXTURES.title=Brass Fixtures
